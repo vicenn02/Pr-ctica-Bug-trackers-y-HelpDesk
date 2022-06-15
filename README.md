@@ -14,7 +14,7 @@ OTRS proporciona funcionalidades valiosas para la gestión estratégica, como lo
 
 **Integración**
 
-OTRS puede integrarse con aplicaciones de terceros sin ningún problema. A pesar de que OTRS proporciona un alto grado de automatización y estandarización, ello no lo obliga al uso de herramientas específicas. En cambio, sí le permite implementar requerimientos específicos para su lugar de trabajo.ç
+OTRS puede integrarse con aplicaciones de terceros sin ningún problema. A pesar de que OTRS proporciona un alto grado de automatización y estandarización, ello no lo obliga al uso de herramientas específicas. En cambio, sí le permite implementar requerimientos específicos para su lugar de trabajo.
 
 **Ticketing & Flujos de Trabajo**
 
@@ -27,3 +27,7 @@ Con plantillas, asignaciones e historiales de solicitudes completos, OTRS evita 
 **Personalización**
 
 OTRS ya proporciona plantillas de proceso integradas para flujos de trabajo estandarizados y frecuentes; pero los procesos individuales también se pueden crear fácilmente con la gestión de procesos de OTRS. Invierte en el futuro de tu empresa, especialmente en tiempos de incertidumbre, para que tus empleados sigan disfrutando de su trabajo. 
+
+**Compra**
+
+![image](https://user-images.githubusercontent.com/104896957/173919838-79719f46-2547-4fe2-be6c-f9787570b0e1.png)
