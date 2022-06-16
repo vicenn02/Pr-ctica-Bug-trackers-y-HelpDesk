@@ -30,4 +30,7 @@ OTRS ya proporciona plantillas de proceso integradas para flujos de trabajo esta
 
 **Compra**
 
+Ofrece diferentes soluciones para cualquier tamaño de empresa.
+Se elije paquete de servicio que mejor se adapte a su negocio.
+
 ![image](https://user-images.githubusercontent.com/104896957/173919838-79719f46-2547-4fe2-be6c-f9787570b0e1.png)
