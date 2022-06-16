@@ -24,6 +24,27 @@ Incluye herramientas de gestión de servicios, permite la automatización de tic
 
 Con plantillas, asignaciones e historiales de solicitudes completos, OTRS evita errores. Las tareas se pueden completar rápidamente. El acceso rápido a la información y los informes garantiza la eficiencia, las reacciones oportunas y las respuestas adaptables. De esta manera, es posible aumentar de manera medible la calidad de la gestión del servicio.
 
+**Servicio al Cliente**
+- Realiza un seguimiento eficaz de las consultas de sus clientes:
+  OTRS se convierte en un asistente perfecto para el seguimiento de tareas y la gestión del tiempo, mediante de la clasificación inmediata, el monitoreo del estado   de  las solicitudes, las asignaciones automáticas y la gestión integrada de escalaciones.
+  
+- Genera confianza con información oportuna: OTRS permite que esto suceda , con el estado actualizado del ticket, que está disponible en línea en cualquier momento,   los clientes no tendrán que preguntarse sobre sus necesidades de servicio. Cuando sus clientes sepan que se está trabajando activamente en sus solicitudes, se       generarán relaciones sólidas y confiables
+
+- Apoya a su equipo de servicio para obtener la máxima eficiencia:permite a los empleados y a los departamentos equilibrar las cargas de trabajo, abordar de forma     proactiva las tareas recurrentes y ofrecer un servicio de alta calidad a tiempo y en todo momento.
+
+**Centro de Respuesta de Seguridad Corporativa**
+- Detecta de forma temprana riesgos y ataques:
+  Detectar una intrusión temprana a menudo requiere más de una plataforma. OTRS se integra fácilmente con herramientas de terceros, para que pueda conectar a los     sistemas de detección, análisis y monitoreo.
+  
+- Implemente medidas de emergencia rápidas:
+  Los procesos automatizados y las notificaciones de OTRS le permiten elegir la mejor respuesta, lo más rápido posible.
+  
+- Responda con rapidez y precisión:
+  El procesamiento automatizado de Alertas de Seguridad de OTRS les informa inmediatamente a los empleados críticos acerca de una violación de seguridad y les         proporciona instrucciones paso a paso para lidiar con ella.
+  
+- Obtenga documentación y análisis precisos:
+  El Sistema de Tickets de OTRS documenta todos los incidentes así como los pasos de resolución tomados, una ventaja insuperable. Los reportes exhaustivos permiten   un análisis preciso. Su Administrador de Seguridad de TI obtendrá una descripción completa de lo que sucedió
+
 **Personalización**
 
 OTRS ya proporciona plantillas de proceso integradas para flujos de trabajo estandarizados y frecuentes; pero los procesos individuales también se pueden crear fácilmente con la gestión de procesos de OTRS. Invierte en el futuro de tu empresa, especialmente en tiempos de incertidumbre, para que tus empleados sigan disfrutando de su trabajo. 
