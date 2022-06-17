@@ -34,6 +34,9 @@ OTRS permite a los empleados y a los departamentos equilibrar sus cargas de trab
 
 Detección temprana de riesgos y ataques La detección temprana de intrusiones a menudo requiere múltiples plataformas. OTRS se integra fácilmente con herramientas de terceros para que pueda conectar sus sistemas de detección, análisis y monitoreo para implementar medidas de contingencia rápidas Durante un ataque, ¡cada segundo cuenta! Los procesos automatizados y las notificaciones de OTRS le permiten elegir la mejor respuesta lo más rápido posible. Responda de manera rápida y precisa El manejo automatizado de alertas de seguridad de OTRS notifica inmediatamente a los empleados clave sobre una brecha de seguridad y les proporciona instrucciones paso a paso para tratarla. Obtenga documentación y análisis precisos El sistema de emisión de boletos de OTRS registra todos los incidentes y los pasos de resolución para una ventaja inigualable. Los informes completos permiten un análisis preciso.
 
+![image](https://user-images.githubusercontent.com/104896852/174322301-476b4159-eec2-4aa6-8505-43d700e5907f.jpg)
+
+
 **Personalización**
 
 OTRS ya proporciona plantillas de proceso integradas para flujos de trabajo estandarizados y frecuentes; pero los procesos individuales también se pueden crear fácilmente con la gestión de procesos de OTRS. Invierte en el futuro de tu empresa, especialmente en tiempos de incertidumbre, para que tus empleados sigan disfrutando de su trabajo. 
