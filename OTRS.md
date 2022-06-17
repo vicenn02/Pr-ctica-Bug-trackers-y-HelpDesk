@@ -6,7 +6,7 @@ Open-source Ticket Request System u OTRS es un sistema libre que cualquier insti
 
 **Trabajo**
 
-OTRS organiza su comunicación, interna y externa, a través de estructuras claras y procesos optimizados. Esto significa que su equipo evitará errores y completará sus tareas rápidamente. Lo que causará una entrega rápida y de alta calidad de servicio.
+OTRS organiza la comunicación, interna y externa, a través de estructuras claras y procesos optimizados. Esto significa que el equipo evitará errores y completará sus tareas rápidamente. Lo que causará una entrega rápida y de alta calidad de servicio.
 
 **Gestión**
 
